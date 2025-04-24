@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="left">My name is Pablo, I'm from Galicia, Spain, and I'm currently studying Computer Science at Universidad de Santiago de Compostela (USC).<br><br>The mainly purpose of this profile is to be my personal storage of my coding files, including personal projects and degree related projects.</h5>
+<h5 align="left">My name is Pablo, I'm from Galicia, Spain, and I'm currently studying Computer Science at Universidade de Santiago de Compostela (USC).<br><br>The mainly purpose of this profile is to be my personal storage of my coding files, including personal projects and degree related projects.</h5>
 
 ###
 
