@@ -51,4 +51,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<h5 align="left">My recently played songs on Spotify:</h5>
+
+<div align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pablomou.6" alt="Spotify recently played" />
+</div>
+
 ###
