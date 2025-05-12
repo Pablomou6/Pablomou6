@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">My mainly used social media:</h5>
+<h5 align="left">My mainly used social media: </h5>
 
 ###
 
